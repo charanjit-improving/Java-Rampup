@@ -1,3 +1,5 @@
+package src.Generics;
+
 import java.util.*;
 
 public class Generics_Assignment {
@@ -49,9 +51,9 @@ public class Generics_Assignment {
 
         System.out.println("\n===== Pair =====");
 
-        Pair<String, Integer> pair = new Pair<>("x", 1);
+        //Pair<String, Integer> pair = new Pair<>("x", 1);
 
-        System.out.println(pair);
-        System.out.println(pair.swap());
+        //System.out.println(pair);
+        //ystem.out.println(pair.swap());
     }
 }

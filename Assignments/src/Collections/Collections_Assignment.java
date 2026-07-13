@@ -1,3 +1,5 @@
+package src.Collections;
+
 import java.util.*;
 
 public class Collections_Assignment {
