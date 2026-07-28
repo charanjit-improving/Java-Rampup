@@ -1,0 +1,6 @@
+package com.example.practice.validation;
+
+public interface OnCreate {
+
+    
+} 
